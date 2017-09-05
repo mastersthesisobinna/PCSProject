@@ -1,0 +1,10 @@
+C:\Users\javao\Desktop\Dropbox\ITLIZE\Marketing\PCS\PCSProject\bin\Debug\PCSProject.exe.config
+C:\Users\javao\Desktop\Dropbox\ITLIZE\Marketing\PCS\PCSProject\bin\Debug\PCSProject.exe
+C:\Users\javao\Desktop\Dropbox\ITLIZE\Marketing\PCS\PCSProject\bin\Debug\PCSProject.pdb
+C:\Users\javao\Desktop\Dropbox\ITLIZE\Marketing\PCS\PCSProject\bin\Debug\ceTe.DynamicPDF.40.dll
+C:\Users\javao\Desktop\Dropbox\ITLIZE\Marketing\PCS\PCSProject\obj\Debug\PCSProject.csprojResolveAssemblyReference.cache
+C:\Users\javao\Desktop\Dropbox\ITLIZE\Marketing\PCS\PCSProject\obj\Debug\PCSProject.exe
+C:\Users\javao\Desktop\Dropbox\ITLIZE\Marketing\PCS\PCSProject\obj\Debug\PCSProject.pdb
+C:\Users\javao\Desktop\ASP\ITLIZE\Marketing\PCS\PCSProject\bin\Debug\PCSProject.exe.config
+C:\Users\javao\Desktop\ASP\ITLIZE\Marketing\PCS\PCSProject\obj\Debug\PCSProject.exe
+C:\Users\javao\Desktop\ASP\ITLIZE\Marketing\PCS\PCSProject\obj\Debug\PCSProject.pdb
